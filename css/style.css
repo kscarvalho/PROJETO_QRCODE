@@ -63,7 +63,13 @@ img {
 
 #qr-form input {
   border: 1px solid #777;
+  outline: none;
   padding: 10px 15px;
+}
+
+#qr-form input:focus{
+  border-color: #34db7a;
+  border-width: 2px;
 }
 
 #qr-form button {
