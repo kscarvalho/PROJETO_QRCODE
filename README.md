@@ -58,17 +58,14 @@ Ideal para praticar integração com APIs, manipulação do DOM e criação de i
 
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/kscarvalho/PROJETO_QRCODE.git
-```
 
 2. Acesse a pasta:
 
-```bash
-cd seu-repositorio
-```
+https://github.com/kscarvalho/PROJETO_QRCODE
 
-3. Abra o arquivo `https://kscarvalho.github.io/PROJETO_QRCODE/` no navegador
+
+3. Abra o arquivo https://kscarvalho.github.io/PROJETO_QRCODE/ no navegador
 
 ---
 
