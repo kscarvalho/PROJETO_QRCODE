@@ -20,7 +20,7 @@ Ideal para praticar integração com APIs, manipulação do DOM e criação de i
 > *(Adicione um print do projeto aqui)*
 
 ```md
-![preview](./img/preview.png)
+![preview](./img/QR CODE.JPG)
 ```
 
 ---
