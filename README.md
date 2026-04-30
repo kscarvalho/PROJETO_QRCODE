@@ -17,11 +17,7 @@ Ideal para praticar integração com APIs, manipulação do DOM e criação de i
 
 ## 📸 Preview
 
-> *(Adicione um print do projeto aqui)*
-
-```md
-![preview](./img/QRCODE.JPG)
-```
+<img src="./img/QRCODE.JPG" width="200px">
 
 ---
 
